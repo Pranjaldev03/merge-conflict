@@ -1,0 +1,23 @@
+pseudo code
+{
+Initial Function()
+{
+<<<<<<< HEAD
+ F1
+=======
+ F2
+>>>>>>> F2
+}
+
+Initial Security()
+{
+<<<<<<< HEAD
+ Performing task of merge conflict.
+=======
+ Here we are creating merge conflict.
+>>>>>>> F2
+}
+
+
+
+}

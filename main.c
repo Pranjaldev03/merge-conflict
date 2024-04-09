@@ -1,15 +1,4 @@
-pseudo code
-{
-Initial Function()
-{
- F1
-}
-
-Initial Security()
-{
- Performing task of merge conflict.
-}
-
-
-
-}
+F1
+F2
+Performing task of merge conflict.
+Here we are creating merge conflict.
