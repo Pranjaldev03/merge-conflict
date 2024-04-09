@@ -2,12 +2,12 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+ F2
 }
 
 Initial Security()
 {
- //Sample Code
+ Here we are creating merge conflict.
 }
 
 
