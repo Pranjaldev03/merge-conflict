@@ -2,12 +2,12 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+ F1
 }
 
 Initial Security()
 {
- $#OYOIM#$
+ Performing task of merge conflict.
 }
 
 
