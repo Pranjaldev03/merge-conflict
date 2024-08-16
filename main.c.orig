@@ -9,8 +9,13 @@ Initial Function()
 >>>>>>> F2
 }
 
+<<<<<<< HEAD
 Initial Security()
 {=======
+=======
+Initial Security(
+=======
+>>>>>>> feature2
  Here we are creating merge conflict.
 >>>>>>> F2
 }
