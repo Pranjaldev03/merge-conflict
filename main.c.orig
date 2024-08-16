@@ -10,10 +10,7 @@ Initial Function()
 }
 
 Initial Security()
-{
-<<<<<<< HEAD
- Performing task of merge conflict.
-=======
+{=======
  Here we are creating merge conflict.
 >>>>>>> F2
 }
